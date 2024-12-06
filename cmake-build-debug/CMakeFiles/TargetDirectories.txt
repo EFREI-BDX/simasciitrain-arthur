@@ -1,0 +1,3 @@
+C:/Users/arthu/Documents/Cours/EFREI/ING1/SEMESTRE1/CPP_C/simasciitrain-arthur/cmake-build-debug/CMakeFiles/simasciitrain.dir
+C:/Users/arthu/Documents/Cours/EFREI/ING1/SEMESTRE1/CPP_C/simasciitrain-arthur/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arthu/Documents/Cours/EFREI/ING1/SEMESTRE1/CPP_C/simasciitrain-arthur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
