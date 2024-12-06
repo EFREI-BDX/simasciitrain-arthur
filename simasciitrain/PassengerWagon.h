@@ -14,7 +14,7 @@ namespace simasciitrain {
         ~PassengerWagon();
         int getPassengerCount() const;
         void setPassengerCount(int passengerCount);
-        void print(std::ostream &os) const override;
+        private: void print(std::ostream &os) const override;
     };
 
 }

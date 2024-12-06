@@ -9,7 +9,7 @@ namespace simasciitrain {
         explicit UtilityWagon();
         ~UtilityWagon();
 
-        void print(std::ostream &os) const override;
+        private: void print(std::ostream &os) const override;
     };
 
 }

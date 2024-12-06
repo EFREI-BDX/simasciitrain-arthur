@@ -16,7 +16,7 @@ namespace simasciitrain {
         Train(Wagons* wagons, AbstractLocomotive* locomotive);
         ~Train() override;
 
-        void print(std::ostream& os) const override;
+        private: void print(std::ostream& os) const override;
     };
 
 }

@@ -19,7 +19,7 @@ class FreightWagon : public AbstractWagon{
     int getFreightCount();
     void setFreightCount(int freightCount);
 
-    void print(std::ostream &os) const override;
+    protected: void print(std::ostream &os) const override;
 };
 
 } // simasciitrain

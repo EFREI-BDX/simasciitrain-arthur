@@ -18,7 +18,7 @@ namespace simasciitrain {
 
         char getSymbol() const override;
         std::string getType() const override;
-        void print(std::ostream& os) const override;
+        private: void print(std::ostream& os) const override;
     };
 
 }

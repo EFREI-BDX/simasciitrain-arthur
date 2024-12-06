@@ -7,7 +7,7 @@ namespace simasciitrain {
     public:
         virtual ~ITrain() = default;
 
-        virtual void print(std::ostream& os) const = 0;
+        protected: virtual void print(std::ostream& os) const = 0;
 
         friend std::ostream& operator<<(std::ostream& os, const ITrain& itrain) {
             itrain.print(os);

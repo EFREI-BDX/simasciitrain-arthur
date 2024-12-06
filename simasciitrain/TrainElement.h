@@ -19,7 +19,7 @@ namespace simasciitrain {
             return os;
         }
 
-        virtual void print(std::ostream& os) const = 0;
+        protected: virtual void print(std::ostream& os) const = 0;
     };
 
 }
