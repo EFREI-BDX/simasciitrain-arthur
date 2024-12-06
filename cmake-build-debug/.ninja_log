@@ -58,3 +58,7 @@
 839	1552	7552019261325270	CMakeFiles/simasciitrain.dir/simasciitrain/Train.cpp.obj	eec1b6c0e2f88d51
 822	1577	7552019261155293	CMakeFiles/simasciitrain.dir/simasciitrain/Wagons.cpp.obj	e44ba610ecdeeca2
 1578	1730	7552019268713699	simasciitrain.exe	191fbddd532c18d7
+12	599	7552023927423261	CMakeFiles/simasciitrain.dir/simasciitrain/TypeWagon.cpp.obj	5e5aa21ee6de38b5
+20	665	7552023927513251	CMakeFiles/simasciitrain.dir/simasciitrain/FreightWagon.cpp.obj	63930de0ec1af3c
+29	677	7552023927603291	CMakeFiles/simasciitrain.dir/simasciitrain/main.cpp.obj	e5197db3ef217a61
+677	833	7552023934073276	simasciitrain.exe	191fbddd532c18d7

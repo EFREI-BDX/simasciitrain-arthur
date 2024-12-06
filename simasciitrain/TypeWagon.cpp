@@ -6,7 +6,7 @@
 
 using namespace simasciitrain;
 
-const TypeWagon TypeWagon::PASSENGER = TypeWagon("Passager", 'o');
+const TypeWagon TypeWagon::PASSENGER = TypeWagon("Passager", '0');
 const TypeWagon TypeWagon::UTILITY = TypeWagon("Utilitaire", '@');
 const TypeWagon TypeWagon::FREIGHT = TypeWagon("Marchandise", '#');
 
