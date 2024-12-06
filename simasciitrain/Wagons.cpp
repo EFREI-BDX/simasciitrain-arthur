@@ -1,10 +1,8 @@
 #include "Wagons.h"
 
-#include <memory_resource>
-
 namespace simasciitrain {
 
-    Wagons::Wagons() : _wagons(std::pmr::get_default_resource()) {
+    Wagons::Wagons() : _wagons() {
     }
 
     Wagons::~Wagons() {

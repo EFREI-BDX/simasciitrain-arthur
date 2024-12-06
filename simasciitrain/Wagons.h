@@ -8,7 +8,7 @@ namespace simasciitrain {
 
     class Wagons {
     private:
-        std::pmr::vector<AbstractWagon*> _wagons;
+        std::vector<AbstractWagon*> _wagons;
 
     public:
         Wagons();
